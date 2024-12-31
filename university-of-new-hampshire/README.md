@@ -45,7 +45,7 @@
 ### My work on Lean 4 prover from Sep 10 2024 to Dec 5th 2024.
 
 #### Presentation of my work Dec 5th, 2024: 
-I started initially as a volunteer participant for giving knowledge transfer. Thanks for the invite to participate and be part of the RLLab organized by Prof. Marek Petrik for Fall 2024.
+I started initially as a volunteer participant for giving knowledge transfer and as a courtesy participation. Thanks for the invite to participate and be part of the RLLab, CS department, UNH organized by Prof. Marek Petrik for Fall 2024.
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQCJ_3PrWZp_06_yQPbKDFmGYzWZZpxYI58NY47SRQMiAf6FTisMi9cVYjxAYBQUJH52YJTbdjGsZhd/pub?start=false&loop=false&delayms=3000">Final project presentation, Dec 5th 2024</a>
 

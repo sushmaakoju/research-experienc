@@ -54,7 +54,7 @@ PhD Student
 - Independent Study: Teaching Writing Across the Curriculum (WAC), IA 699, Fall 2023
 - Neural Networks, INFO 557, Fall 2023 (Audited) & completed textbook <a href="https://www.deeplearningbook.org/">Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville</a>
 - Neural Basis of Language, PSY 530, Fall 2023 <sup><sub><sup><sub>not completed but withdrawn due to unmentionable extenuating circumstances, Oct 12th, 2023.</sub></sup></sub></sup>
-- CSC 900, Research <sup><sub><sup><sub>not completed due to unmentionable extenuating circumstances, Oct 12th, 2023 through May 9th, 2024.</sub></sup></sub></sup>
+- CSC 900, Research <sup><sub><sup><sub>did not deliver a work due to unmentionable extenuating circumstances for safety, Oct 12th, 2023 through May 9th, 2024.</sub></sup></sub></sup>
 
 ### Spring 2024
 

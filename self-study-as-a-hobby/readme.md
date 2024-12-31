@@ -1,6 +1,11 @@
-## Self Study: courses, workshops, tutorials & status
+## Self Study as a hobby: courses, workshops, tutorials & status
+
 
 ### 2015 - 2017
+
+During 2015, while I was enrolled in a <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-pittsburgh">Masters program at University of Pittsburgh, Aug 2014-Dec 2015</a>, and while I was working as a <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-pittsburgh#research-internship-for-practicum-dr-jon-pearlmann-feb-2015---dec-2015">parttime web/mobile app developer for a research project </a>, I completed Neural Networks course.
+
+2016 Onwards - I completed these courses outside of my work, for my learning and as a hobby, while I was working as a <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university"> full time Research programmer at Carnegie Mellon University</a>:
 
 - Neural Networks, 2015-2017
 - Probability and Statistics
@@ -12,15 +17,20 @@
 
 ### 2018 & 2019
 
+The following courses were completed for my learning and as a hobby, while I was working as a full time <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university"> Research programmer at Carnegie Mellon University (CMU) </a>, as well as while <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university#courses-enrolled-while-working-as-an-research-programmer-at-cmu">I was also enrolled in additional non-degree courses at CMU </a> :
+
 - Artificial Intelligence, Textbook based, 2018 (referred by mentors)
 - Machine Learning Textbook, 2018 (referred by mentors)
-- Completed 10715 Advanced Introduction to Machine Learning, 2018
 - Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor/friend) $\color{blue}(notes, WIP)$
 - Automated Theorem Proving, 2018-19 (referred by mentor/friend) $\color{blue}(notes, WIP)$
 - References in World Atlas of Language Structures, 2019
 - History of Language, 2019 (referred by mentor/friend)
 - Analysis in Euclidean Space, Textbook - 2019 $\color{blue}(notes, WIP)$
 - Deep Reinforcement Learning, 2019
+- Computational Genomics, 2019 (referred by supervisor)
+- Conversion of genomic samples to sequences, 2019
+- Introduction to Cancer cells, 2019
+- Real Analysis, 2019 (referred by supervisor)
 - Symbolic Logic, 2019
 - Mass Spectrometry and Imaging Microscopy, 2019 (referred by mentors) 
     - $\textit{\color{brown}Proof of study of the concepts and subject required for a project}$ 
@@ -28,9 +38,12 @@
 
 ### 2020
 
+The following courses were completed for my learning and as a hobby, while I was working as a full time <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university"> Research programmer at Carnegie Mellon University (CMU) Feb 2020 - Oct 2020 and Research Programmer for Computer Vision project from Oct 2020 - July 2021</a>:
+
 - Computational Geometry, 2020 $\color{blue}(notes, WIP)$
 - Image Processing, Image Classification, 2020
 - Computer Vision, 2020
+- mRNA vaccines and Covid
 -  Constructed Languages Conlanging, 2020 (referred by mentor/friend) $\color{blue}(notes, WIP)$
 
 - <a href="https://kingaa.github.io/short-course/parest/parest.html">Introduction to inference: parameter estimation</a> (referred by mentor/friend)
@@ -41,10 +54,15 @@
 
 ### 2021
 
+The following courses were completed for my learning and as a hobby, while I was working as a full time <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university">Research Programmer for Computer Vision project from Oct 2020 - July 2021</a> and started my <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder">Masters at University of Colorado Boulder, Sep 2021</a> and <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder#teaching-assistant-for-msbc-5180-machine-learning-in-python-and-msbc-5190-artificial-intelligence">working as a parttime Teaching Assistant at University of Colorado Boulder for Machine Learning course, Fall 2021 </a>:
+
 - Essential Epidemiologic Tools for Public Health Practice, Coursera, Spring 2021
 - Data and Health Indicators in Public Health Practice, Coursera, Spring 2021
 - Natural Language Processing, Youtube/online lecture materials, Summer 2021
 - Automata, Grammars and Languages, Summer 2021 $\color{blue}(notes, WIP)$
+- Smart Contracts as a language and Turing-completeness, 2021
+- Cellular Automaton, 2021
+- Zero knowledge proofs, 2021
 - Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) $\color{blue}(notes, WIP)$
 - Statistical Machine Learning, Fall 2021
 - Mathematical Theory of Evidence book, 2021 
@@ -66,6 +84,8 @@
         - <a href="https://github.com/sushmaakoju/image_sampling"> Resampling using Ground Sampling Distance over Satellite Images</a> and <a href="https://github.com/sushmaakoju/mturk-task-helper"> Data augmentation, marking, developing pipeline for annotations and assessments for Object detection and classification tasks respectively</a> 
 
 ### 2022
+
+The following courses were completed for my learning and as a hobby, while I was enrolled in a <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder">Masters at University of Colorado Boulder, since Sep 2021</a> and <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder#teaching-assistant-for-msbc-5180-machine-learning-in-python-and-msbc-5190-artificial-intelligence">working as a parttime Teaching Assistant at University of Colorado Boulder for Artificial Intelligence course, Spring 2022 </a>:
 
 - Automated Theorem Proving, Spring 
     - $\textit{\color{brown}Proof of study and implementation for proof of concept}$
@@ -97,6 +117,8 @@
 
 
 ### 2022, 2023 - Ongoing
+
+The following courses were completed for my learning and as a hobby, while I was <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-arizona">PhD student at University of Arizona, Aug 2022</a> and while I was a <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-arizona#research-assistant-for-a-darpa-project-at-clulab-university-of-arizona-aug-19th-2022---july-22nd-2023">parttime Research Assistant at University of Arizona</a>:
 
 - Handbook of Practical Logic and Automated Reasoning from 2009, 2022-2023
 - Natural Logic and Natural Language Inference on SICCK dataset, May 2023 

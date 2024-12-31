@@ -29,7 +29,7 @@ Studied, reviewed and suggested new approaches on Participatory Global Informati
 ## Cloud Computing, Spring 2015, Prof. Balaji Palanisamy
 Implemented a project to perform sentiment analysis of Twitter data (6.4M tweets) to classify tweets into positive, negative and neutral using naïve bayes on Hadoop MapReduce, with 79% accuracy.
 
-## Research Internship for Practicum, Dr. Jon Pearlmann, Feb 2015 - Dec 2015 
+## Research Parttime & Internship for Practicum, Dr. Jon Pearlmann, Feb 2015 - Dec 2015 
 ## School of Rehabilitation Science and Health Sciences (SHRS), University of Pittsburgh
 
 - Worked as a Lead Developer for Android Application and a website for E-Scale Project under supervision of Anand, Jonathan Aaron Duvall. Developed an Android application and website for the E-Scale project demonstration that monitors veterans and PTSD patients for heart conditions and periodic limb movement disorders (PLMD) for a prototype until the first release of the website.
