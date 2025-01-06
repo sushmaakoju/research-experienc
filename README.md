@@ -2,7 +2,7 @@
 
 <!-- 1. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire"> Prof. Laura Dietz, University of New Hampshire: Ongoing, PhD, since Fall 2024</a>. -->
 
-00. <a href="https://github.com/sushmaakoju/research-experience/tree/main/self-study-as-a-hobby">Learning as a hobby</a>
+00. <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby">Learning as a hobby</a>
 
 0. <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire">University of New Hampshire Fall 2024 - present.</a>
 

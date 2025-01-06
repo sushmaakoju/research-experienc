@@ -1,19 +1,20 @@
-## Self Study as a hobby: courses, workshops, tutorials & status
-
+## Learning as a hobby: courses, workshops, tutorials & status
+Even though some types of work demanded learning new concepts & subjects but it was often pursued for learning as a hobby.
 
 ### 2015 - 2017
 
 During 2015, while I was enrolled in a <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-pittsburgh">Masters program at University of Pittsburgh, Aug 2014-Dec 2015</a>, and while I was working as a <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-pittsburgh#research-internship-for-practicum-dr-jon-pearlmann-feb-2015---dec-2015">parttime web/mobile app developer for a research project </a>, I completed Neural Networks course.
 
-2016 Onwards - I completed these courses outside of my work, for my learning and as a hobby, while I was working as a <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university"> full time Research programmer at Carnegie Mellon University</a>:
+2016 Onwards - I completed these courses or research works outside of my work, for my learning and as a hobby, while I was working as a <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university"> full time Research programmer at Carnegie Mellon University</a>:
 
-- Neural Networks, 2015-2017
-- Probability and Statistics
-- OpenFace, 2016 
-- OpenSmile, 2016
-- Speech Processing, 2016-2017
-- Audio signal Encoding, 2017
-- 10-709 Fall 2017: Fundamentals of Learning from the Crowd, Carnegie Mellon University (Audit)
+1. Neural Networks, 2015-2017
+2. Probability and Statistics
+3. OpenFace, 2016 
+4. OpenSmile, 2016
+5. Language Understanding and Intent recognition, 2016
+6. Basics of Speech Processing, 2016-2017
+7. Audio signal Encoding algorithms, 2017
+8. 10-709 Fall 2017: Fundamentals of Learning from the Crowd, Carnegie Mellon University (Audit)
 
 ### 2018 & 2019
 
@@ -28,9 +29,12 @@ The following courses were completed for my learning and as a hobby, while I was
 - Analysis in Euclidean Space, Textbook - 2019 $\color{blue}(notes, WIP)$
 - Deep Reinforcement Learning, 2019
 - Computational Genomics, 2019 (referred by supervisor)
+- Algorithms in Nature, 2019 (for hobby - referred by supervisor)
 - Conversion of genomic samples to sequences, 2019
 - Introduction to Cancer cells, 2019
 - Real Analysis, 2019 (referred by supervisor)
+- Complex number analysis, 2019 (referred by supervisor)
+- Algorithms (3 courses), 2019
 - Symbolic Logic, 2019
 - Mass Spectrometry and Imaging Microscopy, 2019 (referred by mentors) 
     - $\textit{\color{brown}Proof of study of the concepts and subject required for a project}$ 
@@ -43,10 +47,26 @@ The following courses were completed for my learning and as a hobby, while I was
 - Computational Geometry, 2020 $\color{blue}(notes, WIP)$
 - Image Processing, Image Classification, 2020
 - Computer Vision, 2020
-- mRNA vaccines and Covid
+- Algorithms, 2020 
+    - $\textit{\color{brown}Proof of study for algorithms and implementation}$ 
+        - <a href="https://github.com/sushmaakoju/algorithms">Implementation of some algorithms </a>
+- Advanced Algorithms, 2020
+- Data Structures, 2020
+    - $\textit{\color{brown}Proof of study for data structures and implementation}$ 
+        - <a href="https://github.com/sushmaakoju/datastructures/commits/master/">Implementation of data structures</a> 
+- Machine Learning Algorithms & Implementation, 2020
+    - $\textit{\color{brown}Proof of study for Machine Learning algorithms and implementation}$ 
+        - <a href="https://github.com/sushmaakoju/ml-algorithms">Implementation of Machine Learning algorithms</a>
+- Implementing algorithms for vectors and matrices using numpy, 2020 (Google Colab)
+    - $\textit{\color{brown}Proof of study for implementation of algorithms using numpy}$
+    - <a href="https://github.com/sushmaakoju/numpy-algorithms-data-structures">Implementation of algorithms using numpy</a>
+- Genetic Algorithms for optimization, 2020
+    -  $\textit{\color{brown}Proof of study for implementation of genetic algorithms for optimization for domain-specific}$
+        - This work is under confidentiality agreements, hence cannot be shared as a public repository.
+- mRNA vaccines and Covid, 2020
 -  Constructed Languages Conlanging, 2020 (referred by mentor/friend) $\color{blue}(notes, WIP)$
 
-- <a href="https://kingaa.github.io/short-course/parest/parest.html">Introduction to inference: parameter estimation</a> (referred by mentor/friend)
+- <a href="https://kingaa.github.io/short-course/parest/parest.html">Introduction to inference: parameter estimation & SIR models</a> (referred by mentor/friend)
 - $\textit{\color{brown}Proof of study and applications of Machine Learning}$ 
     - <a href="https://github.com/sushmaakoju/regression-api/">Implemented Machine Learning algorithm based regression analysis for a project</a> 
 - $\textit{\color{brown}Proof of study for languages and real-time applications}$ 
@@ -82,6 +102,11 @@ The following courses were completed for my learning and as a hobby, while I was
 - Image Sampling applications, 2021
     - $\textit{\color{brown}Proof of study and implementation for applications of Image processing, 2020 and an application for Fundamentals of Learning from the Crowd, 2017}$
         - <a href="https://github.com/sushmaakoju/image_sampling"> Resampling using Ground Sampling Distance over Satellite Images</a> and <a href="https://github.com/sushmaakoju/mturk-task-helper"> Data augmentation, marking, developing pipeline for annotations and assessments for Object detection and classification tasks respectively</a> 
+- Natural Language Processing algorithms Implementation (Google Colab)
+    - Edit Distance, Naive Bayes Text classification, Logistic regression, Word embeddings, GloVE & Word2Vec, SentenceEmbeddings,  Neural Networks, RNNs, LSTMs, Transformers, Masked Language Models (MLMs), Next Sentence Prediction (NSP), BERT models (BERT, Key-BERT, Span-BERT, MegatronBERT, visual bert, Visual BERT).
+    - Most downstream tasks that used Language Models seem to use implementations based on available templates and they seem to be modified to adapt to the requirements of specific tasks.
+    - $\textit{\color{brown}Proof of study with partial implementation (since downstream tasks examples were run for understanding the implementation, leaving less room for full implementation):}$ 
+        - <a href="https://drive.google.com/drive/folders/Colab Notebooks/NLP">drive link</a>
 
 ### 2022
 
@@ -148,7 +173,7 @@ The following courses were completed for my learning and as a hobby, while I was
 - Workshops and Tutorials, EMNLP, 2022, 2024
 - European Summer School in Logic, Language and Information, 2021 & 2022 $\color{blue}(notes, WIP)$
 
-<b>Note:</b> Some of the courses/topics are evolving, so they are repeated, may remain as an ongoing study. For some of the aforementioned courses/workshops relevant to my studies on Neurosymbolic methods and NLP/AI, I am presently preparing materials/notes, for <b>my revision</b>, for $\textit{\color{brown}Proof}$-of-study" & coursework simultaneously that are marked with a note $\color{blue}(notes, WIP)$ Work-In-Progress (WIP).
+<b>Note:</b> Some of the courses/topics are evolving, so they are repeated, may remain as an ongoing study. For some of the aforementioned courses/workshops relevant to my studies on Neurosymbolic methods and NLP/AI, I am presently preparing materials/notes, for <b>my revision</b>, for $\textit{\color{brown}Proof}$-of-study" & coursework simultaneously that are marked with a note $\color{blue}(notes, WIP)$ Work-In-Progress (WIP). I am thankful to the mentors, supervisors, friends that helped recommended these courses/topics to study.
 
 ### Cite this repository
 
