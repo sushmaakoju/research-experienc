@@ -175,6 +175,59 @@ The following courses were completed for my learning and as a hobby, while I was
 
 <b>Note:</b> Some of the courses/topics are evolving, so they are repeated, may remain as an ongoing study. For some of the aforementioned courses/workshops relevant to my studies on Neurosymbolic methods and NLP/AI, I am presently preparing materials/notes, for <b>my revision</b>, for $\textit{\color{brown}Proof}$-of-study" & coursework simultaneously that are marked with a note $\color{blue}(notes, WIP)$ Work-In-Progress (WIP). I am thankful to the mentors, supervisors, friends that helped recommended these courses/topics to study.
 
+### Teaching relevant Certifications & Case studies - Career Pathway
+
+- Teaching Assistant for Machine Learning and Artificial Intelligence, CU Boulder, Fall 2021 & spring 2022.
+- Teaching Assistant for CSC 473 Automata, Grammars and Languages, University of Arizona, Aug 2023 - May 2023
+- Independent Study: Teaching Writing Across the Curriculum (WAC), <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a>, IA 699, Fall 2023
+- Independent Study: Teaching-as-Research course, <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a>, IA 699, Spring 2024
+- Learning Assistant Quick Start Program Fall 2023
+- Teaching: <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a> Practitioner Level II Spring 2024
+- Teaching: <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a> Associate Level I Fall 2023 - Spring 2024
+- My Teaching as a Research project/case study <a href="https://sites.google.com/arizona.edu/uofatarprojects/spring-2024/sushma-akoju?authuser=0">Impact of Supplemental Instruction Sessions on the stress levels & amount of time spent on homework assignments by the students, in an era of Internet solutions and advanced AI tools: A case study.</a>
+
+### Research relevant work
+
+- <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby"> From learning as a hobby to a vocation</a>
+- <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-new-hampshire#may-2024---aug-2024--self-study--research-assistant-worksstatus-for-information-retrieval--neurosymbolic-methods">May 2024 - Aug 2024 : Self Study + Research Assistant works/status for Information Retrieval & neurosymbolic Methods</a>
+- <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/RA-work-summary.md">Work experience as a Research Assistant, University of Arizona, Fall 2022 - July 2023</a>
+- <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university">Work experience as a Research Programmer at Carnegie Mellon University, March 2016 - July 2021</a>
+
+### Peer-reviewed and First Author Research publications
+
+#### First Author Publication 
+
+<a href="https://arxiv.org/abs/2307.05034">Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference</a>
+
+```
+@article{akoju2024syntheticdatasetforEvaluatingSICCK,
+      title={Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference}, 
+      author={Sushma Anand Akoju and Robert Vacareanu and Haris Riaz and Eduardo Blanco and Mihai Surdeanu},
+      year={2024},
+      eprint={2307.05034},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2307.05034}, 
+}
+```
+
+#### Peer-reviewed publications as a Research Programmer:
+
+- <a href="https://www.nature.com/articles/s41586-019-1629-x">The human body at cellular resolution: the NIH Human Biomolecular Atlas Program, 2019</a>
+- <a href="https://ieeexplore.ieee.org/abstract/document/8814225">Nlsc: Unrestricted natural language-based service composition through sentence embeddings, 2019</a>
+- <a href="https://arxiv.org/abs/1906.02061">Adroitness: An Android-based Middleware for Fast Development of High-performance Apps, 2019</a>
+- <a href="https://ieeexplore.ieee.org/abstract/document/8432189">An Efficient Mobile-Based Middleware Architecture for Building Robust, High-Performance Apps, 2018</a>
+- <a href="https://aclanthology.org/W16-3628.pdf">Socially-Aware Animated Intelligent Personal Assistant Agent, 2016</a>
+
+
+### Unpublished works
+
+- Survey of methods using First Order Logic for evaluation of Language Models, 2023-2024, $\color{blue}(work-in-progress)$ to add recent works. <em>I can provide a rough summary for review upon request</em>
+
+- Evaluation of methods for translation from Natural Language to First Order Logic statements using FOLIO dataset. Volunteer work. Supervised by Prof. Mihai Surdeanu and Prof. Eduardo Blanco, as part of CSC 696, University of Arizona. <em>with full paper, evaluation, Colab notebooks and analysis.</em>
+
+- Neurosymbolic Methods relevant work, 2024, $\color{blue}(work-in-progress)$. <em>I can provide a rough summary for review upon request.</em>
+
 ### Cite this repository
 
 Thank you for visiting this repository!
