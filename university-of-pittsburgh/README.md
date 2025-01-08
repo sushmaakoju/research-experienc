@@ -35,3 +35,20 @@ Implemented a project to perform sentiment analysis of Twitter data (6.4M tweets
 - Worked as a Lead Developer for Android Application and a website for E-Scale Project under supervision of Anand, Jonathan Aaron Duvall. Developed an Android application and website for the E-Scale project demonstration that monitors veterans and PTSD patients for heart conditions and periodic limb movement disorders (PLMD) for a prototype until the first release of the website.
 
 - Worked on developing a website with Peer reviewed and crowd-sourced assignment evaluation using Django Framework and HTML, CSS, Javascript website under supervision of Mahender Arjun Mahi.
+
+### Cite this repository
+
+Thank you for visiting this repository!
+This repository receives from 10 to 35+ clones each time this repository is updated and various versions were renamed and saved for analysis of visits.
+
+If you found this repository helpful and have used any of the documents on this repository for your work/research or have referred these materials to anyone else, please cite this work to support healthy & collaborative competition and for the intellectual integrity:
+
+```
+@online{githubsakojuresearchstudyrecommendations,
+	title        = {github sakoju/research-experience},
+	author       = {sushmaanandakoju},
+	year         = {2015-present},
+	note         = {[Accessed in 2023/2024/2025]},
+	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+}
+```

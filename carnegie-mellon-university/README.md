@@ -64,3 +64,20 @@ Prior to this learning experience, I had interest in First Order Logic as a hobb
 
 #### Employment verification for CMU
 <a href="https://www.cmu.edu/hr/service-center/help/index.html#verifications">HR contact details.</a>
+
+### Cite this repository
+
+Thank you for visiting this repository!
+This repository receives from 10 to 35+ clones each time this repository is updated and various versions were renamed and saved for analysis of visits.
+
+If you found this repository helpful and have used any of the documents on this repository for your work/research or have referred these materials to anyone, please cite this work to support healthy & collaborative competition and for the intellectual integrity:
+
+```
+@online{githubsakojuresearchstudyrecommendations,
+	title        = {github sakoju/research-experience},
+	author       = {sushmaanandakoju},
+	year         = {2015-present},
+	note         = {[Accessed in 2023/2024/2025]},
+	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+}
+```

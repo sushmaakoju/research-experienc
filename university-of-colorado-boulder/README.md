@@ -140,3 +140,20 @@ Pathways.
 - Adding to this, I worked on this project for merely 1 month, we also received good reception for the research analysis we presented not only from the group I was working with but also from the conference this work was specifically presented.
 
 Worked on Survey Data Analysis for Coursera courses for Data Science. <a href="https://www.colorado.edu/hr/content/contact-hr.">For Employment verification</a>
+
+### Cite this repository
+
+Thank you for visiting this repository!
+This repository receives from 10 to 35+ clones each time this repository is updated and various versions were renamed and saved for analysis of visits.
+
+If you found this repository helpful and have used any of the documents on this repository for your work/research or have referred these materials to anyone else, please cite this work to support healthy & collaborative competition and for the intellectual integrity:
+
+```
+@online{githubsakojuresearchstudyrecommendations,
+	title        = {github sakoju/research-experience},
+	author       = {sushmaanandakoju},
+	year         = {2015-present},
+	note         = {[Accessed in 2023/2024/2025]},
+	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+}
+```

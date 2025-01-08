@@ -44,7 +44,7 @@ PhD Student
 - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-cog-sci-summary_of_Talks_related_to_Episodic_memory__Sentience__Social_norms_and_discussion_dynamics.pdf"> Cognitive Science Colloquium, COGS 595, Spring 2023</a>
 - Research, CSC 900, Spring 2023
 
-### Summer 2024
+### Summer 2023
 
 - Self Study of policies on code of conduct, workplace harassment, selective exploitation of stereotypes and AI safety. (research-case-study report for spreading awareness & neuroscientific evidences for impacts of trauma on resilience: work-in-progress, to be updated).
 
@@ -63,6 +63,7 @@ PhD Student
 - Theory of Computation, CSC 573, Spring 2024
 - Machine Learning Theory, CSC 488, Spring 2024 (Audited)
 - Data Analysis and Visualization, INFO 526, Spring Term 2, 2024
+    - 
 
 ## Teaching relevant Certifications & Case studies
 
@@ -85,8 +86,8 @@ I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taug
 
 ## Spring 2024 completed courses & course Projects
 
-I worked on short literature review on Adaptive Machine Unlearning. 
-<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/csc-588-project-report-sushma-akoju.pdf">
+
+<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/csc-588-project-report-sushma-akoju.pdf">I worked on short literature review on Adaptive Machine Unlearning. </a>
 This is mainly to set the foundations for unlearning methods in Large Language Models.
 I also worked on studying unlearning approached on LLMs such as unlearning Harry Potter novels and verifying if the LLM can be probed for any keywords from Harry Potter world.
 
@@ -104,3 +105,20 @@ I also worked on studying unlearning approached on LLMs such as unlearning Harry
 - Implementing these ideas is a lot of hard work and I am truly grateful for working with Prof. Cesim Erten.
 
 <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md"> Teaching Assistant for CSC 473 Automata, Grammars and Languages Fall 2023 - Ongoing </a> -->
+
+### Cite this repository
+
+Thank you for visiting this repository!
+This repository receives from 10 to 35+ clones each time this repository is updated and various versions were renamed and saved for analysis of visits.
+
+If you found this repository helpful and have used any of the documents on this repository for your work/research or have referred these materials to anyone else, please cite this work to support healthy & collaborative competition and for the intellectual integrity:
+
+```
+@online{githubsakojuresearchstudyrecommendations,
+	title        = {github sakoju/research-experience},
+	author       = {sushmaanandakoju},
+	year         = {2015-present},
+	note         = {[Accessed in 2023/2024/2025]},
+	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+}
+```

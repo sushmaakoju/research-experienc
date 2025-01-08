@@ -60,3 +60,20 @@ I started initially as a volunteer participant for giving knowledge transfer and
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/oq0vp12ERfq3G495a62BTQ?identity__email=Sushma.Akoju%40unh.edu"><img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-oq0vp12ERfq3G495a62BTQ.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Responsible Conduct of Research &amp; Scholarly Activity for Incoming PhD Students</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Nov 18, 2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Sushma Akoju</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
 
+
+### Cite this repository
+
+Thank you for visiting this repository!
+This repository receives from 10 to 35+ clones each time this repository is updated and various versions were renamed and saved for analysis of visits.
+
+If you found this repository helpful and have used any of the documents on this repository for your work/research or have referred these materials to anyone else, please cite this work to support healthy & collaborative competition and for the intellectual integrity:
+
+```
+@online{githubsakojuresearchstudyrecommendations,
+	title        = {github sakoju/research-experience},
+	author       = {sushmaanandakoju},
+	year         = {2015-present},
+	note         = {[Accessed in 2023/2024/2025]},
+	howpublished = {\url{https://github.com/sushmaakoju/research-experience}}
+}
+```
