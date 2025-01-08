@@ -1,5 +1,8 @@
 ## Learning as a hobby: courses, workshops, tutorials & status
-Even though some types of work demanded learning new concepts & subjects but it was often pursued for learning as a hobby.
+
+I initially started learning as a hobby required for my job, but I was very skeptical, but there were very few people who encouraged me to continue learning as a hobby - i.e. mainly my mentor + friend and supervisor+mentor+guide, without whom this page would be impossible to exist. The reason for putting this together now is to confront some of the stereotypes and biases, I felt compelled to share the following learning relevant information. We do not have to put everything on the internet to "demonstrate" proof of study and understanding when safety and privacy is not guaranteed. And this page is - NOT for Intellectual domination, NOT for power, and most importantly NOT for profit/gains/promotion of any sort. **The following proofs of studies are available only to put a fullstop to atleast some concerns and questions that - I, my mentors and mentor-friend - receive about showing online/internet proofs of my study.**
+
+I am grateful to everyone who supported and encouraged this hobby, knowingly or unknowingly. I am especially grateful to my mentor+friend and supervisor+mentor+guide for the support and encouragement.
 
 ### 2015 - 2017
 
@@ -20,22 +23,22 @@ During 2015, while I was enrolled in a <a href="https://github.com/sushmaakoju/r
 
 The following courses were completed for my learning and as a hobby, while I was working as a full time <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university"> Research programmer at Carnegie Mellon University (CMU) </a>, as well as while <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university#courses-enrolled-while-working-as-an-research-programmer-at-cmu">I was also enrolled in additional non-degree courses at CMU </a> :
 
-- Artificial Intelligence, Textbook based, 2018 (referred by mentors)
+- Artificial Intelligence, Textbook based, 2018 (referred by mentors, referred by mentor+friend)
 - Machine Learning Textbook, 2018 (referred by mentors)
-- Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor/friend) $\color{blue}(notes, WIP)$
-- Automated Theorem Proving, 2018-19 (referred by mentor/friend) $\color{blue}(notes, WIP)$
+- Sequent calculus, natural deduction and first-order logic with Horn clauses, 2018 (taught & referred by mentor+friend) $\color{blue}(notes, WIP)$
+- Automated Theorem Proving, 2018-19 (referred by mentor+friend) $\color{blue}(notes, WIP)$
 - References in World Atlas of Language Structures, 2019
-- History of Language, 2019 (referred by mentor/friend)
+- History of Language, 2019 (referred by mentor+friend)
 - Analysis in Euclidean Space, Textbook - 2019 $\color{blue}(notes, WIP)$
-- Deep Reinforcement Learning, 2019
+- Deep Reinforcement Learning, 2019 (referred by mentor+friend)
 - Computational Genomics, 2019 (referred by supervisor)
 - Algorithms in Nature, 2019 (for hobby - referred by supervisor)
 - Conversion of genomic samples to sequences, 2019
-- Introduction to Cancer cells, 2019
+- Introduction to Cancer cells, 2019 (referred by mentor+friend)
 - Real Analysis, 2019 (referred by supervisor)
 - Complex number analysis, 2019 (referred by supervisor)
-- Algorithms (3 courses), 2019
-- Symbolic Logic, 2019
+- Algorithms (3 courses), 2019 (referred by mentor+friend)
+- Symbolic Logic, 2019 (referred by mentor+friend)
 - Mass Spectrometry and Imaging Microscopy, 2019 (referred by mentors) 
     - $\textit{\color{brown}Proof of study of the concepts and subject required for a project}$ 
         - <a href="https://github.com/sushmaakoju/research-experience/blob/main/carnegie-mellon-university/sushma-akoju-Imaging_Mass_Spectrometry_HuBMAP_KT_Document.pdf">Imaging Mass Spectrometry - Training document</a> 
@@ -46,12 +49,12 @@ The following courses were completed for my learning and as a hobby, while I was
 
 - Computational Geometry, 2020 $\color{blue}(notes, WIP)$
 - Image Processing, Image Classification, 2020
-- Computer Vision, 2020
+- Computer Vision, 2020 
 - Algorithms, 2020 
     - $\textit{\color{brown}Proof of study for algorithms and implementation}$ 
         - <a href="https://github.com/sushmaakoju/algorithms">Implementation of some algorithms </a>
-- Advanced Algorithms, 2020
-- Data Structures, 2020
+- Advanced Algorithms, 2020 (referred by mentor+friend)
+- Data Structures, 2020 (referred by mentor+friend)
     - $\textit{\color{brown}Proof of study for data structures and implementation}$ 
         - <a href="https://github.com/sushmaakoju/datastructures/commits/master/">Implementation of data structures</a> 
 - Machine Learning Algorithms & Implementation, 2020
@@ -64,9 +67,9 @@ The following courses were completed for my learning and as a hobby, while I was
     -  $\textit{\color{brown}Proof of study for implementation of genetic algorithms for optimization for domain-specific}$
         - This work is under confidentiality agreements, hence cannot be shared as a public repository.
 - mRNA vaccines and Covid, 2020
--  Constructed Languages Conlanging, 2020 (referred by mentor/friend) $\color{blue}(notes, WIP)$
+-  Constructed Languages Conlanging, 2020 (referred by mentor+friend) $\color{blue}(notes, WIP)$
 
-- <a href="https://kingaa.github.io/short-course/parest/parest.html">Introduction to inference: parameter estimation & SIR models</a> (referred by mentor/friend)
+- <a href="https://kingaa.github.io/short-course/parest/parest.html">Introduction to inference: parameter estimation & SIR models</a> (referred by mentor+friend)
 - $\textit{\color{brown}Proof of study and applications of Machine Learning}$ 
     - <a href="https://github.com/sushmaakoju/regression-api/">Implemented Machine Learning algorithm based regression analysis for a project</a> 
 - $\textit{\color{brown}Proof of study for languages and real-time applications}$ 
@@ -83,18 +86,18 @@ The following courses were completed for my learning and as a hobby, while I was
 - Smart Contracts as a language and Turing-completeness, 2021
 - Cellular Automaton, 2021
 - Zero knowledge proofs, 2021
-- Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) $\color{blue}(notes, WIP)$
+- Natural Language Understanding, Summer-Fall 2021 (Stanford University Lecture materials) $\color{blue}(notes, WIP)$ (referred by mentor+friend)
 - Statistical Machine Learning, Fall 2021
 - Mathematical Theory of Evidence book, 2021 
-- Knowledge Representation and Reasoning (KRR), 2021 $\color{blue}(notes, WIP)$
+- Knowledge Representation and Reasoning (KRR), 2021 $\color{blue}(notes, WIP)$ (referred by mentor+friend)
 - Markov Logic Networks, 
     - $\textit{\color{brown}Proof of study/concept}$ 
         - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-mln-stats-fall-2021-final.pdf">MLN, Fall 2021</a> 
-- Abstract Meaning Representation (AMR), 2021
+- Abstract Meaning Representation (AMR), 2021 (referred by mentor)
     - $\textit{\color{brown}Proof of concept understanding}$ 
         - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/RA-work-summary.md#mar-18th-2023">Extended applications using AMR, 2022</a> 
-- Logical Neural Networks, 2021 $\color{blue}(notes, WIP)$
-- Transition AMR Parser, 2021 $\color{blue}(notes, WIP)$
+- Logical Neural Networks, 2021 $\color{blue}(notes, WIP)$ (referred by mentor)
+- Transition AMR Parser, 2021 $\color{blue}(notes, WIP)$ (referred by mentor)
 - Natural Language Processing, Fall 2021 
     - $\textit{\color{brown}Proof of study and concepts:}$
         - <a href="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task"> Reports & Source code: SemEval Task 4 Patronizing and Condescending Language Detection (PCL) - ranked 1 in first round</a>   
@@ -156,6 +159,10 @@ The following courses were completed for my learning and as a hobby, while I was
 - Consciousness theory and neuroscience (based on research works) and <a href="https://amcs-community.org/">AMCS</a> talks, from 2023 - ongoing
 - Measure Theory, MIT online course, 2024 (Audit)
 - Introduction to Functional Analysis, MIT online course, 2024 (Audit)
+- Machine Unlearning, Spring 2024
+    - $\textit{\color{brown}Proof of study and concept}$
+    - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/csc-588-project-report-sushma-akoju.pdf">I worked on short literature review on Adaptive Machine Unlearning. </a>
+    - To include the report for the unlearning in LLMs.  $\color{blue}(notes, WIP)$
 - Fundamentals Of Neuroscience (enrolled), ongoing  $\color{blue}(notes, WIP)$
 - Representation Learning, Spring 2024 - ongoing $\color{blue}(notes, WIP)$
 - Large Language Models, Summer 2023 - ongoing $\color{blue}(notes, WIP)$
@@ -173,7 +180,7 @@ The following courses were completed for my learning and as a hobby, while I was
 - Workshops and Tutorials, EMNLP, 2022, 2024
 - European Summer School in Logic, Language and Information, 2021 & 2022 $\color{blue}(notes, WIP)$
 
-<b>Note:</b> Some of the courses/topics are evolving, so they are repeated, may remain as an ongoing study. For some of the aforementioned courses/workshops relevant to my studies on Neurosymbolic methods and NLP/AI, I am presently preparing materials/notes, for <b>my revision</b>, for $\textit{\color{brown}Proof}$-of-study" & coursework simultaneously that are marked with a note $\color{blue}(notes, WIP)$ Work-In-Progress (WIP). I am thankful to the mentors, supervisors, friends that helped recommended these courses/topics to study.
+<b>Note:</b> Some of the courses/topics are evolving, so they are repeated, may remain as an ongoing study. For some of the aforementioned courses/workshops relevant to my studies on Neurosymbolic methods and NLP/AI, I am presently preparing materials/notes, for <b>my revision</b>, for $\textit{\color{brown}Proof}$-of-study" & coursework simultaneously that are marked with a note $\color{blue}(notes, WIP)$ Work-In-Progress (WIP). But these notes will be released after graduation from my PhD. I am thankful to the mentors, supervisors, friends that helped and recommended some of these courses/topics to study.
 
 ### Teaching relevant Certifications & Case studies - Career Pathway
 
