@@ -63,7 +63,7 @@ PhD Student
 - Theory of Computation, CSC 573, Spring 2024
 - Machine Learning Theory, CSC 488, Spring 2024 (Audited)
 - Data Analysis and Visualization, INFO 526, Spring Term 2, 2024
-    - 
+    - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/INFO-526-Portfolio-sushma-akoju_without_r_code.pdf"> Final project portfolio</a>
 
 ## Teaching relevant Certifications & Case studies
 
