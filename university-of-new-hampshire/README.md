@@ -59,7 +59,13 @@ I started initially as a volunteer participant for giving knowledge transfer and
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/oq0vp12ERfq3G495a62BTQ?identity__email=Sushma.Akoju%40unh.edu"><img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-oq0vp12ERfq3G495a62BTQ.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Responsible Conduct of Research &amp; Scholarly Activity for Incoming PhD Students</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Nov 18, 2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Sushma Akoju</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
+## Jan 2025 - May 2025, Teaching Assistant, UNH
 
+- I work as a Teaching Assistant for Machine Learning course. Responsibilities are to conduct Office Hours and grading homework assignments.
+
+### Self-volunteered responsibilities outside of assigned TA responsibilities:
+
+- Responding to the questions on the Piazza to help students and designing grading rubric for each homework assignment.
 
 ### Cite this repository
 

@@ -194,6 +194,17 @@ For more information: <a href="https://github.com/sushmaakoju/research-experienc
 - Teaching: <a href="https://academicaffairs.arizona.edu/about-cirtl">CIRTL</a> Associate Level I Fall 2023 - Spring 2024
 - My Teaching as a Research project/case study <a href="https://sites.google.com/arizona.edu/uofatarprojects/spring-2024/sushma-akoju?authuser=0">Impact of Supplemental Instruction Sessions on the stress levels & amount of time spent on homework assignments by the students, in an era of Internet solutions and advanced AI tools: A case study.</a>
 
+#### Prior experience in Teaching
+
+- <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-new-hampshire/README.md#jan-2025---may-2025-teaching-assistant-unh"> Teaching Assistant, Spring 2025, University of New Hampshire</a>
+
+- <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md"> Teaching Assistant, Aug 2023 - May 2024, University of Arizona</a>
+
+- <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder#teaching-assistant-for-msbc-5180-machine-learning-in-python-and-msbc-5190-artificial-intelligence">Teaching Assistant, Aug 2021 - March 2022, University of Colorado, Boulder </a>
+
+- Teaching Assistant for Website development, Fall 2014, Temple University.
+
+
 ### Research relevant work
 
 - <a href="https://github.com/sushmaakoju/research-experience/tree/main/learning-as-a-hobby"> From learning as a hobby to a vocation</a>
